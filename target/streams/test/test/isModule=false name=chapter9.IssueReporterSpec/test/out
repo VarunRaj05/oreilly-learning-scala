@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0m[32mIssueReporterSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mJSON Parser[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse JSON if JSON data structure matches input parameter type[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return None if JSON data structure does not match input parameter type[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return empty list if JSON data structure matches input parameter type but is empty[0m[0m
+[0m[[0minfo[0m] [0m[32mHTML client[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return content and have status as success[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return nothing in content and have status as failure[0m[0m
+[0m[[0minfo[0m] [0m[32mFixed Width Reporter[0m[0m
+[0m[[0minfo[0m] [0m[32m- should ensure column count is same across all rows[0m[0m
+[0m[[0minfo[0m] [0m[32m- should ensure column names are same and in same order across all rows[0m[0m
+[0m[[0minfo[0m] [0m[32m- should ensure column widths are same and in same order across all rows[0m[0m
+[0m[[0minfo[0m] [0m[32m- should extract column names and generate header with = sign as delimiter[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fit data item to specified width[0m[0m
+[0m[[0minfo[0m] [0m[32m- should generate fixed width report[0m[0m
+[0m[[0minfo[0m] [0m[32mIssue Reporter[0m[0m
+[0m[[0minfo[0m] [0m[32m- should create Record data set to feed into report creator[0m[0m

@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mFileSummarySpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mFileSummary object[0m[0m
+[0m[[0minfo[0m] [0m[32m- should identify paragraphs[0m[0m
+[0m[[0minfo[0m] [0m[32m- should count paragraphs[0m[0m
+[0m[[0minfo[0m] [0m[32m- should count characters[0m[0m
+[0m[[0minfo[0m] [0m[32m- should find words[0m[0m
+[0m[[0minfo[0m] [0m[32m- should count words[0m[0m
+[0m[[0minfo[0m] [0m[32m- should generate word stats[0m[0m
+[0m[[0minfo[0m] [0m[32m- should identify top words[0m[0m
