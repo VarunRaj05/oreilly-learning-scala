@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mHtmlUtilsSpec:[0m[0m
-[0m[[0minfo[0m] [0m[32mThe HTML Utils object[0m[0m
-[0m[[0minfo[0m] [0m[32m- should remove single elements[0m[0m
-[0m[[0minfo[0m] [0m[32m- should remove paired elements[0m[0m
-[0m[[0minfo[0m] [0m[32m- should have no effect on empty strings[0m[0m
